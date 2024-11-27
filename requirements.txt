@@ -1,0 +1,30 @@
+# Core Django packages
+Django
+djangorestframework
+django-cors-headers
+djangorestframework-simplejwt
+
+# Environment management
+python-decouple
+python-dotenv
+
+# API documentation
+drf-yasg
+
+# Database driver
+psycopg2-binary
+
+# HTTP requests
+requests
+
+# Computer vision and AI libraries
+opencv-python
+imutils
+
+# Machine learning libraries
+keras
+tensorflow
+google-generativeai
+
+# Image processing
+Pillow
